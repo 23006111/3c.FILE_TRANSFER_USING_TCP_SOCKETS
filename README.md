@@ -60,7 +60,6 @@ while True:
 ~~~
 
 
-
 ## OUPUT
 ## CLIENT
 ![image](https://github.com/23006111/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/145981696/d35c88b2-74e1-4a56-9535-828563c8c128)
